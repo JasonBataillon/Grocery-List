@@ -5,7 +5,9 @@ body {
     'Lucida Sans', Arial, sans-serif;
   zoom: 1.5;
   -moz-transform: scale(1.5);
+  transform: scale(1.5);
   -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
 }
 h1 {
   text-align: center;
