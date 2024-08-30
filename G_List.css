@@ -1,0 +1,91 @@
+body {
+  margin-left: 50px;
+  margin-top: 20px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  zoom: 1.5;
+  -moz-transform: scale(1.5);
+  transform: scale(1.5);
+  -moz-transform-origin: 0 0;
+  transform-origin: 0 0;
+}
+h1 {
+  text-align: center;
+  color: cadetblue;
+}
+h2 {
+  font-size: 25px;
+  background-color: rgb(231, 222, 210);
+  border: 1px solid black;
+  width: 458px;
+}
+.cannedFull {
+  background-color: rgba(131, 130, 130, 0.418);
+  width: 210px;
+  height: 165px;
+  padding-left: 15px;
+  margin-right: 30px;
+  margin-top: -15px;
+}
+.cannedGoods {
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+.cannedList {
+  margin-left: -20px;
+  padding-left: -10px;
+}
+.dryFull {
+  background-color: rgba(131, 130, 130, 0.418);
+  width: 210px;
+  height: 165px;
+  padding-left: 15px;
+  margin-top: -15px;
+}
+.dryGoods {
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+.dryList {
+  margin-left: -20px;
+  padding-left: -10px;
+}
+img {
+  width: 220px;
+  margin-left: 30px;
+  margin-top: -14.5px;
+}
+span {
+  display: flex;
+}
+.veggiesFull {
+  background-color: rgba(131, 130, 130, 0.418);
+  width: 210px;
+  height: 165px;
+  padding-left: 15px;
+  margin-right: 30;
+  margin-top: -15px;
+}
+.veggiesGoods {
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+.veggiesList {
+  margin-left: -20px;
+  padding-left: -10px;
+}
+.snacksFull {
+  background-color: rgba(131, 130, 130, 0.418);
+  width: 210px;
+  height: 165px;
+  padding-left: 15px;
+  margin-top: -15px;
+}
+.snacksGoods {
+  font-size: 20px;
+  margin-bottom: -5px;
+}
+.snacksList {
+  margin-left: -20px;
+  padding-left: -10px;
+}
